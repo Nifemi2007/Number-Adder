@@ -61,6 +61,13 @@ form > button:hover {
   transition: 0.3s background-color;
 }
 
+.msg {
+  color: red;
+  font-size: 12px;
+  margin-top: 2px;
+  margin-bottom: 4px;
+}
+
 form > p {
   font-size: 20px;
   margin-top: 40px;

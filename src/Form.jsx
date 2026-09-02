@@ -28,6 +28,7 @@ function Form() {
     <form onSubmit={handleSubmit}>
       <h1>Number Adder</h1>
       <label htmlFor="Input">Enter numbers...</label> <br></br>
+      <p className="msg">Each nuber should be separated by comma</p>
       <input
         value={value}
         type="text"
