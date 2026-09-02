@@ -67,7 +67,7 @@ form > p {
 
 @media screen and (max-width: 600px) {
   form {
-    height: 70%;
-    width: 90%;
+    height: 50%;
+    width: 80%;
   }
 }
