@@ -2,7 +2,7 @@
 
 Helps you to perform simple arithmetic operation.
 
-## user
+## User
 
 Anyone faced with the task of adding numbers
 
@@ -26,3 +26,5 @@ Enter the numbers you want to add, each separated by a comma "," then press the 
 - Number adder won't give result to a specific decimal place, result depends on the input given
 
 ## NUMBER ADDER LINK
+
+https://number-adder-ruby.vercel.app/
