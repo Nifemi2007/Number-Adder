@@ -12,6 +12,7 @@
 
 form {
   overflow: scroll;
+  scrollbar-width: none;
   background-color: white;
   height: 40%;
   width: 25%;
@@ -67,7 +68,7 @@ form > p {
 
 @media screen and (max-width: 600px) {
   form {
-    height: 50%;
-    width: 80%;
+    height: 55%;
+    width: 85%;
   }
 }
